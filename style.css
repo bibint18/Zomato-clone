@@ -68,6 +68,7 @@ h1,h2,h3,h4,h5,h6{
 .first-container:hover,
 .second-container:hover{
   transform: scale(1.05);
+  transition: transform 0.3s;
   z-index: 3;
 }
   
